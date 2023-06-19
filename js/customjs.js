@@ -30,5 +30,18 @@ var swiper = new Swiper(".mySwiper", {
       },
   });
 
+  // insta Hover
+  // const instaImg = document.querySelectorAll('.insta-img img');
+  // const instaIcon = document.querySelector('.insta-icon')
+  // console.log(instaImg);
+  // console.log(instaIcon);
+  // instaImg.forEach((img) => function() {
+  //   img.addEventListener('mouseover',function (){
+  //     instaIcon.classList.add('on');
+      
+  //   });
+  // });
+
+
 //AOS
-//AOS.init();
+AOS.init();
