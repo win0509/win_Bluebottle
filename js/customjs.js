@@ -11,6 +11,18 @@ closeIcon.addEventListener('click', function(){
     overlayMenu.classList.remove('on');
 });
 
+// header Stiky
+// const navBar = document.querySelector('.nav-bar')
+// const scrY = window.screenTop;
+
+// window.addEventListener("scroll", () => {
+//   if(scrY > 0){
+//     navBar.setAttribute("style", "background : transparent; transition: .5s;")
+//   }else{
+//     navBar.setAttribute("style", "background : #01A1DD;");
+//   }
+// });
+
 
 //Coffee Swiper
 var swiper = new Swiper(".mySwiper", {

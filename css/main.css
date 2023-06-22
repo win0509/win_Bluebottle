@@ -76,7 +76,7 @@ header .nav-bar .menu{
 .overlay{
     position: fixed;
     top: 0;
-    left: -32%;
+    left: -100%;
     z-index: 9999;
     width: 600px;
     height: 100%;
